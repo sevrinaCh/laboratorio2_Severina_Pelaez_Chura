@@ -1,0 +1,36 @@
+.footer {
+    background-color: #ebe7e7;
+    color: rgb(5, 0, 0);
+    padding: 10px 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.uno {
+   
+    margin: 0px 20px;
+    font-size: 10px;
+}
+.dos {
+    
+    margin: -60px 200px;
+    font-size: 10px;
+}
+
+.tres {
+    margin: 0px 400px;
+    width: 15%;
+    height: 15%;
+    object-fit: cover;
+}
+.cuatro {
+    margin: -110px 750px;
+    width: 12%;
+    height: 15%;
+    object-fit: cover;
+}
+.cinco {
+    margin: -100px 1090px;
+    width: 10%;
+    height: 10%;
+    object-fit: cover;
+}
